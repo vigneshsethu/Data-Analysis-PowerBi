@@ -16,7 +16,7 @@ The Vrinda Store wants to Create an annual Sales Products Report From Store in 2
 - Is there a relationship between item weight and sales?
 - Which location tier sees the highest sales volume?
 - What’s the sales trend over time by outlet type?
-
+## Blinkit Dashboard
 - <a href="https://github.com/vigneshsethu/Data-Analysis-PowerBi/blob/main/Blinkit%20Screen%20Shot.PNG">Blinkit Dashboard</a>
 
 ## Dashboard Conclusion: BlinkIT Grocery Sales Analysis
